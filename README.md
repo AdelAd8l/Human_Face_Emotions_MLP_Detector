@@ -1,6 +1,6 @@
 # Human Face Emotion Classification with MLPs
 
-**Author:** Adel Ahmed Fathi Amer (ID 224100177)
+**Author:** Adel Ahmed Fathi Amer 
 
 Five-class facial emotion classifier (Angry, Fear, Happy, Sad, Surprise) built with **multi-layer perceptrons only**
 (no CNNs / transformers / pre-trained networks), using the Kaggle dataset
