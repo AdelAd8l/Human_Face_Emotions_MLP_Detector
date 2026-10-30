@@ -1,0 +1,12 @@
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+pillow>=10
+opencv-python>=4.9
+scikit-learn>=1.5
+scikit-image>=0.24
+joblib>=1.4
+torch>=2.3
+kagglehub>=0.3
+ipython
+jupyter
